@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Merai</h1>
-<h3 align="center">I'm an aspiring data scientist that enjoys statistics and is constantly interested in learning more about data. Data is an art form that must be appreciated.</h3>
+<h3 align="center">I'm an aspiring data scientist who enjoys statistics and is constantly interested in learning more about data. Data is an art form that must be understood.</h3>
 
 - 🔭 I’m currently working on **Classification Laboratory**
 
