@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahil Merai</h1>
 <h3 align="center">I'm an aspiring data scientist who enjoys statistics and is constantly interested in learning more about data. Data is an art form that must be understood.</h3>
 
-- 🔭 I’m currently working on **Classification Laboratory**
+- 🔭 I’m currently working on **fine tuning llm with custom data**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Multiple AI Agents**
 
 - 📫 How to reach me **satp8286@gmail.com**
 
-- ⚡ Fun fact **I'm a theatre artist and storyteller who can create an active, on-the-spot story.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
